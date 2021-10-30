@@ -1,1 +1,1 @@
-export const HOST_IP='192.168.18.10';
+export const HOST_IP='192.168.18.2';
