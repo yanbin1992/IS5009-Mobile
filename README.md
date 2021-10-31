@@ -10,6 +10,8 @@ Need to change the **`HOST_IP`** in "environment.js" file when set environment.
 
 host ip address is **WLAN IPv4 Address** XXX.XXX.XXX.XXX (192.168.xx.xx in general)
 
+OR set the ip address as the public frontend server ip address
+
 
 **`HOST_IP`**= **WLAN IPv4 Address**
 
